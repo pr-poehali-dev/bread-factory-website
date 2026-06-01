@@ -438,7 +438,7 @@ export default function Index() {
 
             <div className="space-y-6">
               {[
-                { icon: "MapPin", title: "Адрес", text: "ул. Пекарская, 12, г. Москва" },
+                { icon: "MapPin", title: "Адрес", text: "Пензенская обл., г. Сурск, ул. Строителей, 20" },
                 { icon: "Phone", title: "Телефон", text: "+7 (495) 123-45-67" },
                 { icon: "Mail", title: "Email", text: "info@hlebozavod.ru" },
                 { icon: "Clock", title: "Режим работы", text: "Пн–Сб: 6:00 — 18:00" },
