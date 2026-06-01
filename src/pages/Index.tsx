@@ -404,14 +404,9 @@ export default function Index() {
                   </p>
 
                   <div className="flex items-center justify-between">
-                    <div>
-                      <span className="font-display text-2xl font-bold" style={{ color: "hsl(var(--primary))" }}>
-                        {product.price} ₽
-                      </span>
-                      <span className="font-body text-xs ml-1" style={{ color: "hsl(var(--muted-foreground))" }}>
-                        / {product.weight}
-                      </span>
-                    </div>
+                    <span className="font-body text-sm" style={{ color: "hsl(var(--muted-foreground))" }}>
+                      {product.weight}
+                    </span>
                     <div
                       className="w-9 h-9 rounded-xl flex items-center justify-center transition-all group-hover:scale-110"
                       style={{ background: "hsl(var(--secondary))" }}
@@ -622,7 +617,6 @@ export default function Index() {
                   { label: "Вес", value: selectedProduct.weight },
                   { label: "Калорийность", value: selectedProduct.calories },
                   { label: "Срок хранения", value: selectedProduct.shelf },
-                  { label: "Цена", value: `${selectedProduct.price} ₽` },
                 ].map((row) => (
                   <div key={row.label}>
                     <div className="font-body text-xs" style={{ color: "hsl(var(--muted-foreground))" }}>
