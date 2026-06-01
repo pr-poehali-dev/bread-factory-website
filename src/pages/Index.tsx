@@ -132,7 +132,7 @@ export default function Index() {
               className="text-xl font-display font-semibold tracking-wide"
               style={{ color: "hsl(var(--crust))" }}
             >
-              Хлебозавод
+              ООО «Сурский хлебозавод»
             </span>
           </button>
 
@@ -205,7 +205,7 @@ export default function Index() {
               className="animate-fade-in-up font-body text-sm uppercase tracking-[0.2em] mb-4"
               style={{ color: "hsl(45 80% 70%)" }}
             >
-              С 1967 года
+              Основан в 2010 году
             </p>
             <h1
               className="animate-fade-in-up delay-100 font-display text-5xl md:text-7xl font-bold leading-[1.05] mb-6"
@@ -254,7 +254,7 @@ export default function Index() {
         >
           <div className="max-w-6xl mx-auto px-6 py-5 grid grid-cols-3 gap-4">
             {[
-              { value: "57+", label: "лет традиций" },
+              { value: "15+", label: "лет традиций" },
               { value: "40+", label: "видов продукции" },
               { value: "15 т", label: "выпекаем в сутки" },
             ].map((stat) => (
@@ -288,7 +288,7 @@ export default function Index() {
               </em>
             </h2>
             <p className="font-body text-base leading-relaxed mb-5" style={{ color: "hsl(var(--muted-foreground))" }}>
-              Наш хлебозавод основан в 1967 году. За более чем полвека работы мы сохранили
+              ООО «Сурский хлебозавод» основан в 2010 году. За более чем 15 лет работы мы сохранили
               главное — уважение к традициям и любовь к своему делу. Каждая буханка
               проходит полный цикл: от замеса теста до выпечки в подовых печах.
             </p>
@@ -549,11 +549,11 @@ export default function Index() {
               🌾
             </div>
             <span className="font-display text-lg font-semibold" style={{ color: "hsl(42 40% 85%)" }}>
-              Хлебозавод
+              ООО «Сурский хлебозавод»
             </span>
           </div>
           <p className="font-body text-sm" style={{ color: "hsl(42 20% 60%)" }}>
-            © 2024 Хлебозавод. Традиции с 1967 года.
+            © 2025 ООО «Сурский хлебозавод». Основан в 2010 году.
           </p>
           <div className="flex gap-5">
             {NAV_LINKS.map((link) => (
