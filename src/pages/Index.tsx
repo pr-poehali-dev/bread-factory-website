@@ -86,7 +86,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Лимон, банан, вишня, шоколад, клубника, абрикос — на выбор.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|0|0|25|50",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|2|1|23|18",
   },
   {
     id: 11,
@@ -99,7 +99,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Нежный кекс с начинкой из варёной сгущёнки.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|25|0|50|50",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|27|1|48|18",
   },
   {
     id: 12,
@@ -112,7 +112,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Классическое рассыпчатое печенье с джемом.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|50|0|75|50",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|52|1|73|18",
   },
   {
     id: 13,
@@ -125,7 +125,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Песочное тесто с нежной творожной начинкой.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|75|0|100|50",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|77|1|98|18",
   },
   {
     id: 14,
@@ -138,7 +138,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Традиционный кекс с изюмом и цукатами.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|0|50|25|100",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|2|26|23|43",
   },
   {
     id: 15,
@@ -151,7 +151,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Насыщенный шоколадный кекс с какао.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|25|50|50|100",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|27|26|48|43",
   },
   {
     id: 16,
@@ -164,7 +164,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Печенье в форме орешков с варёной сгущёнкой.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|50|50|75|100",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|52|26|73|43",
   },
   {
     id: 17,
@@ -177,7 +177,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Вафельное печенье — хрустящее, с нежным вкусом.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|75|50|100|100",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|77|26|98|43",
   },
   {
     id: 18,
@@ -190,7 +190,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Классический столичный кекс с изюмом.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/e77507af-c52d-4f59-9fc5-5be3ca3e2277.jpg|0|0|25|50",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|2|51|23|68",
   },
   {
     id: 19,
@@ -203,7 +203,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Мягкий кекс с творогом, нежный и сочный.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/e77507af-c52d-4f59-9fc5-5be3ca3e2277.jpg|25|0|50|50",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|27|51|48|68",
   },
   {
     id: 20,
@@ -216,7 +216,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Слоёное тесто с фруктовым джемом и кунжутом.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/e77507af-c52d-4f59-9fc5-5be3ca3e2277.jpg|50|0|75|50",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|52|51|73|68",
   },
   {
     id: 21,
@@ -229,7 +229,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Слоёные изделия в форме бантиков, посыпанные сахаром.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/e77507af-c52d-4f59-9fc5-5be3ca3e2277.jpg|75|0|100|50",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|77|51|98|68",
   },
   {
     id: 22,
@@ -242,7 +242,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Мятный, шоколадный, московский — на выбор.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/e77507af-c52d-4f59-9fc5-5be3ca3e2277.jpg|0|50|25|100",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|2|76|23|93",
   },
   {
     id: 23,
@@ -255,7 +255,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Домашнее овсяное печенье — мягкое, ароматное.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/e77507af-c52d-4f59-9fc5-5be3ca3e2277.jpg|25|50|50|100",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|27|76|48|93",
   },
   {
     id: 24,
@@ -268,7 +268,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Хрустящее слоёное печенье — с семечками или с луком.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/e77507af-c52d-4f59-9fc5-5be3ca3e2277.jpg|50|50|75|100",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|52|76|73|93",
   },
   {
     id: 25,
@@ -281,7 +281,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Слоёный круасан с начинкой.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/e77507af-c52d-4f59-9fc5-5be3ca3e2277.jpg|75|50|100|100",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/808f3439-d2dc-4a36-b5f4-9e6a29b61850.jpg|77|76|98|93",
   },
   {
     id: 30,
@@ -294,7 +294,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Бисквитный рулет с шоколадным кремом.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|0|0|25|45",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|2|2|24|20",
   },
   {
     id: 31,
@@ -307,7 +307,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Вишня, лимон, банан, груша, шоколад, абрикос, черная смородина.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|25|0|50|45",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|27|2|49|20",
   },
   {
     id: 32,
@@ -320,7 +320,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Шоколадный бисквит с кремом.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|0|45|25|75",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|2|24|24|42",
   },
   {
     id: 33,
@@ -333,7 +333,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Слоёное пирожное с кремом.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|25|45|50|75",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|27|24|49|42",
   },
   {
     id: 34,
@@ -346,7 +346,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Нежное пирожное в стиле тирамису.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|0|75|25|100",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|2|46|24|64",
   },
   {
     id: 35,
@@ -359,7 +359,7 @@ const PRODUCTS = [
     shelf: "",
     description: "С заварным кремом или варёной сгущёнкой.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|25|75|50|100",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|27|46|49|64",
   },
   {
     id: 36,
@@ -372,7 +372,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Слоёный пирог с начинкой.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|0|75|25|100",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|2|68|24|84",
   },
   {
     id: 37,
@@ -385,7 +385,7 @@ const PRODUCTS = [
     shelf: "",
     description: "Пирог с белой глазурью.",
     badge: null,
-    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|25|75|50|100",
+    image: "photo:https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0fd31776-e9a3-45fe-aef7-d56898a0a514.jpg|27|68|49|84",
   },
 ];
 
