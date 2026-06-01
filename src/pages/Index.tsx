@@ -255,7 +255,7 @@ export default function Index() {
           <div className="max-w-6xl mx-auto px-6 py-5 grid grid-cols-3 gap-4">
             {[
               { value: "15+", label: "лет традиций" },
-              { value: "40+", label: "видов продукции" },
+              { value: "100+", label: "видов продукции" },
               { value: "15 т", label: "выпекаем в сутки" },
             ].map((stat) => (
               <div key={stat.label} className="text-center">
