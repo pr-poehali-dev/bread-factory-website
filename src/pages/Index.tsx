@@ -89,7 +89,7 @@ const PRODUCTS = [
   },
 ];
 
-const CATEGORIES = ["Все", "Ржаной хлеб", "Пшеничный хлеб", "Смешанный хлеб", "Зерновой хлеб", "Сдобная выпечка"];
+const CATEGORIES = ["Все", "Ржаной хлеб", "Пшеничный хлеб", "Смешанный хлеб", "Зерновой хлеб", "Сдобная выпечка", "Кондитерские изделия"];
 
 export default function Index() {
   const [activeSection, setActiveSection] = useState("home");
