@@ -252,11 +252,10 @@ export default function Index() {
           className="absolute bottom-0 left-0 right-0 z-10"
           style={{ background: "hsl(25 30% 12% / 0.75)", backdropFilter: "blur(8px)" }}
         >
-          <div className="max-w-6xl mx-auto px-6 py-5 grid grid-cols-3 gap-4">
+          <div className="max-w-6xl mx-auto px-6 py-5 grid grid-cols-2 gap-4 max-w-sm mx-auto">
             {[
               { value: "15+", label: "лет традиций" },
               { value: "100+", label: "видов продукции" },
-              { value: "15 т", label: "выпекаем в сутки" },
             ].map((stat) => (
               <div key={stat.label} className="text-center">
                 <div className="font-display text-2xl md:text-3xl font-bold" style={{ color: "hsl(45 80% 70%)" }}>
