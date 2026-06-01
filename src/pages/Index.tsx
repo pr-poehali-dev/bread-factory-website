@@ -14,7 +14,7 @@ const PRODUCTS = [
     name: "Хлеб «Новый»",
     category: "Пшеничный хлеб",
     price: 89,
-    weight: "700 г",
+    weight: "650 г",
     calories: "207 ккал/100г",
     composition: "Мука пшеничная в/с, вода, дрожжи, соль",
     shelf: "5 суток",
