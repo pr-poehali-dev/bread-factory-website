@@ -24,7 +24,7 @@ const PRODUCTS = [
   },
   {
     id: 2,
-    name: "Батон «Нарезной»",
+    name: "Батон «Колос»",
     category: "Пшеничный хлеб",
     price: 54,
     weight: "400 г",
