@@ -74,10 +74,32 @@ const PRODUCTS = [
     badge: null,
     image: "🍞",
   },
-
+  { id: 10, name: "Рулет «Зебра»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Бисквитный рулет с шоколадным кремом.", badge: null, image: "🎂" },
+  { id: 11, name: "Рулет в ассортименте", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Вишня, лимон, банан, груша, шоколад, абрикос, черная смородина.", badge: null, image: "🍰" },
+  { id: 12, name: "Пирожное «Шоколадница»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Шоколадный бисквит с кремом.", badge: null, image: "🍫" },
+  { id: 13, name: "Пирожное «Выскак»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Слоёное пирожное с кремом.", badge: null, image: "🥐" },
+  { id: 14, name: "Пирожное «Мирамису»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Нежное пирожное в стиле тирамису.", badge: null, image: "🍮" },
+  { id: 15, name: "Пирожное «Эклер»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "С заварным кремом или варёной сгущёнкой.", badge: null, image: "🥖" },
+  { id: 16, name: "Пирог «Дружба»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Слоёный пирог с начинкой.", badge: null, image: "🥧" },
+  { id: 17, name: "Пирог «Пионерский»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Пирог с белой глазурью.", badge: null, image: "🍞" },
+  { id: 18, name: "Кекс «Московский»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Традиционный кекс с изюмом и цукатами.", badge: null, image: "🧁" },
+  { id: 19, name: "Кекс «Шоколадный»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Насыщенный шоколадный кекс с какао.", badge: null, image: "🍫" },
+  { id: 20, name: "Кекс «Столичный» 250 г", category: "Кондитерские изделия", price: 0, weight: "250 г", calories: "", composition: "", shelf: "", description: "Классический столичный кекс с изюмом.", badge: null, image: "🧁" },
+  { id: 21, name: "Кекс «Творожный» 250 г", category: "Кондитерские изделия", price: 0, weight: "250 г", calories: "", composition: "", shelf: "", description: "Мягкий кекс с творогом, нежный и сочный.", badge: null, image: "🧁" },
+  { id: 22, name: "Кекс с начинкой", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Лимон, банан, вишня, шоколад, абрикос — на выбор.", badge: null, image: "🧁" },
+  { id: 23, name: "Кекс со сгущёнкой", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Нежный кекс с начинкой из варёной сгущёнки.", badge: null, image: "🧁" },
+  { id: 24, name: "Печенье «Курабье»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Классическое рассыпчатое печенье с джемом.", badge: null, image: "🍪" },
+  { id: 25, name: "Печенье «Орешки»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Печенье в форме орешков с варёной сгущёнкой.", badge: null, image: "🍪" },
+  { id: 26, name: "Печенье «Овсяное»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Домашнее овсяное печенье — мягкое, ароматное.", badge: null, image: "🍪" },
+  { id: 27, name: "Печенье слоёное с семечками/луком", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Хрустящее слоёное печенье — с семечками или с луком.", badge: null, image: "🍪" },
+  { id: 28, name: "Сочник с творогом", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Песочное тесто с нежной творожной начинкой.", badge: null, image: "🥐" },
+  { id: 29, name: "Слойка с джемом", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Слоёное тесто с фруктовым джемом.", badge: null, image: "🥐" },
+  { id: 30, name: "Сахарные бантики", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Слоёные изделия в форме бантиков, посыпанные сахаром.", badge: null, image: "🥐" },
+  { id: 31, name: "Круасан", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Слоёный круасан с начинкой.", badge: null, image: "🥐" },
+  { id: 32, name: "Пряники", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Мятный, шоколадный, московский — на выбор.", badge: null, image: "🍬" },
 ];
 
-const CATEGORIES = ["Все", "Ржаной хлеб", "Пшеничный хлеб", "Смешанный хлеб", "Сдобная выпечка"];
+const CATEGORIES = ["Все", "Ржаной хлеб", "Пшеничный хлеб", "Смешанный хлеб", "Сдобная выпечка", "Кондитерские изделия"];
 
 
 export default function Index() {
