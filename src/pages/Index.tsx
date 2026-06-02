@@ -74,12 +74,12 @@ const PRODUCTS = [
     badge: null,
     image: "🍞",
   },
-  { id: 10, name: "Рулет «Зебра»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Бисквитный рулет с шоколадным кремом.", badge: null, image: "🎂" },
-  { id: 11, name: "Рулет в ассортименте", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Вишня, лимон, банан, груша, шоколад, абрикос, черная смородина.", badge: null, image: "🍰" },
+  { id: 10, name: "Рулет «Зебра»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Бисквитный рулет с шоколадным кремом.", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/733d34f6-0695-4af8-87d3-1d4f6e2bf26c.png" },
+  { id: 11, name: "Рулет в ассортименте", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Вишня, лимон, банан, груша, шоколад, абрикос, черная смородина.", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/7adaf5c9-a62f-4cae-9caf-115fa9ae5301.png" },
   { id: 12, name: "Пирожное «Шоколадница»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Шоколадный бисквит с кремом.", badge: null, image: "🍫" },
   { id: 13, name: "Пирожное «Выскак»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Слоёное пирожное с кремом.", badge: null, image: "🥐" },
   { id: 14, name: "Пирожное «Мирамису»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Нежное пирожное в стиле тирамису.", badge: null, image: "🍮" },
-  { id: 15, name: "Пирожное «Эклер»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "С заварным кремом или варёной сгущёнкой.", badge: null, image: "🥖" },
+  { id: 15, name: "Пирожное «Эклер»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "С заварным кремом или варёной сгущёнкой.", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/286da5a5-c625-4dcd-b380-218311f6df6a.png" },
   { id: 16, name: "Пирог «Дружба»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Слоёный пирог с начинкой.", badge: null, image: "🥧" },
   { id: 17, name: "Пирог «Пионерский»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Пирог с белой глазурью.", badge: null, image: "🍞" },
   { id: 18, name: "Кекс «Московский»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Традиционный кекс с изюмом и цукатами.", badge: null, image: "🧁" },
@@ -92,11 +92,12 @@ const PRODUCTS = [
   { id: 25, name: "Печенье «Орешки»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Печенье в форме орешков с варёной сгущёнкой.", badge: null, image: "🍪" },
   { id: 26, name: "Печенье «Овсяное»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Домашнее овсяное печенье — мягкое, ароматное.", badge: null, image: "🍪" },
   { id: 27, name: "Печенье слоёное с семечками/луком", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Хрустящее слоёное печенье — с семечками или с луком.", badge: null, image: "🍪" },
-  { id: 28, name: "Сочник с творогом", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Песочное тесто с нежной творожной начинкой.", badge: null, image: "🥐" },
+
   { id: 29, name: "Слойка с джемом", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Слоёное тесто с фруктовым джемом.", badge: null, image: "🥐" },
   { id: 30, name: "Сахарные бантики", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Слоёные изделия в форме бантиков, посыпанные сахаром.", badge: null, image: "🥐" },
   { id: 31, name: "Круасан", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Слоёный круасан с начинкой.", badge: null, image: "🥐" },
-  { id: 32, name: "Пряники", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Мятный, шоколадный, московский — на выбор.", badge: null, image: "🍬" },
+  { id: 32, name: "Пряники", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Мятный, шоколадный, московский — на выбор.", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/2c72f344-a76b-44ad-81e8-3b37887d2012.png" },
+  { id: 33, name: "Сочник с творогом", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Песочное тесто с нежной творожной начинкой.", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/c4011c61-b96a-4bbf-bb2b-5139caec942a.png" },
 ];
 
 const CATEGORIES = ["Все", "Ржаной хлеб", "Пшеничный хлеб", "Смешанный хлеб", "Сдобная выпечка", "Кондитерские изделия"];
@@ -386,7 +387,11 @@ export default function Index() {
                   className="relative h-40 flex items-center justify-center overflow-hidden"
                   style={{ background: "hsl(var(--secondary))" }}
                 >
-                  <span className="text-6xl">{product.image}</span>
+                  {product.image.startsWith("http") ? (
+                    <img src={product.image} alt={product.name} className="w-full h-full object-contain p-3" />
+                  ) : (
+                    <span className="text-6xl">{product.image}</span>
+                  )}
                   {product.badge && (
                     <span
                       className="absolute top-3 right-3 px-2.5 py-1 rounded-full font-body text-xs font-semibold"
@@ -591,7 +596,11 @@ export default function Index() {
               className="h-44 flex items-center justify-center relative overflow-hidden"
               style={{ background: "hsl(var(--secondary))" }}
             >
-              <span className="text-7xl">{selectedProduct.image}</span>
+              {selectedProduct.image.startsWith("http") ? (
+                <img src={selectedProduct.image} alt={selectedProduct.name} className="w-full h-full object-contain p-4" />
+              ) : (
+                <span className="text-7xl">{selectedProduct.image}</span>
+              )}
               {selectedProduct.badge && (
                 <span
                   className="absolute top-4 right-4 px-3 py-1 rounded-full font-body text-xs font-semibold"
