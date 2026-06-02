@@ -132,7 +132,7 @@ const PRODUCTS = [
   { id: 47, name: "Булочка «Посыпушка»", category: "Сдобная выпечка", price: 0, weight: "45 г / 90 г / 180 г", calories: "", composition: "", shelf: "", description: "", badge: null, image: "🧁" },
   { id: 48, name: "Рогалик", category: "Сдобная выпечка", price: 0, weight: "150 г", calories: "", composition: "", shelf: "", description: "", badge: null, image: "🥐" },
   { id: 49, name: "Ромашка в ассортименте", category: "Сдобная выпечка", price: 0, weight: "350 г", calories: "", composition: "", shelf: "", description: "Мак, кунжут, изюм.", badge: null, image: "🧁" },
-  { id: 50, name: "Пирожки с начинками", category: "Сдобная выпечка", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "", badge: null, image: "🥟" },
+  { id: 50, name: "Пирожки в ассортименте", category: "Сдобная выпечка", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Мясо, капуста, ветчина-сыр, лук-яйцо, яблоко, рис с курицей, курага, чернослив, сгущёнка, творог, картошка, печень.", badge: null, image: "🥟" },
   {
     id: 6,
     name: "Хлеб «Тостовый»",
