@@ -101,7 +101,7 @@ const PRODUCTS = [
   { id: 35, name: "Трубочки вафельные со сгущёнкой", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Хрустящие вафельные трубочки с начинкой из варёной сгущёнки.", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/cb1e3237-7387-4291-98ee-a3690853c424.png" },
 ];
 
-const CATEGORIES = ["Все", "Ржаной хлеб", "Пшеничный хлеб", "Смешанный хлеб", "Сдобная выпечка", "Кондитерские изделия"];
+const CATEGORIES = ["Все", "Пшеничный хлеб", "Смешанный хлеб", "Сдобная выпечка", "Кондитерские изделия"];
 
 
 export default function Index() {
