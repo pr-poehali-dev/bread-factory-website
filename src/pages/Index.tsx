@@ -160,7 +160,7 @@ const PRODUCTS = [
   { id: 22, name: "Кекс с начинкой", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Лимон, банан, вишня, шоколад, абрикос, клубника, карамель, творожный — на выбор.", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/0dc5d924-e3cb-44ac-a539-847ce7091087.png" },
 
   { id: 24, name: "Печенье «Курабье»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Классическое рассыпчатое печенье с джемом.", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/f495aa6d-e2e6-4cbf-86b5-9f2a7703fc37.png" },
-  { id: 25, name: "Печенье «Орешки»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Печенье в форме орешков с варёной сгущёнкой.", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/2a61f4f8-1825-461a-b4d4-084e15716338.png" },
+  { id: 25, name: "Сдобное изделие «Орешки»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Сдобные орешки с варёной сгущёнкой.", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/2a61f4f8-1825-461a-b4d4-084e15716338.png" },
 
   { id: 27, name: "Печенье слоёное с семечками/луком", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Хрустящее слоёное печенье — с семечками или с луком.", badge: null, image: "🍪" },
 
