@@ -428,7 +428,7 @@ export default function Index() {
             <div className="space-y-6">
               {[
                 { icon: "MapPin", title: "Адрес", text: "Пензенская обл., г. Сурск, ул. Строителей, 20" },
-                { icon: "Phone", title: "Телефон", text: "+7 (495) 123-45-67" },
+                { icon: "Phone", title: "Телефон", text: "8 (8415) 83-51-01" },
                 { icon: "Mail", title: "Email", text: "surskiixleb@mail.ru" },
                 { icon: "Clock", title: "Режим работы", text: "Круглосуточно, без выходных" },
               ].map((item) => (
