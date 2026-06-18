@@ -98,7 +98,7 @@ const PRODUCTS = [
     shelf: "",
     description: "",
     badge: null,
-    image: "🫓",
+    image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/a2cb4293-a3a2-4901-9c3a-dbb3ec8b82e9.png",
   },
   {
     id: 43,
