@@ -20,7 +20,7 @@ const PRODUCTS = [
     shelf: "",
     description: "",
     badge: null,
-    image: "🍞",
+    image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/98cfb9eb-680b-4610-b40e-0df611bcbfb7.png",
   },
   {
     id: 37,
