@@ -132,7 +132,7 @@ const PRODUCTS = [
   { id: 47, name: "Булочка «Посыпушка»", category: "Сдобная выпечка", price: 0, weight: "45 г / 90 г / 180 г", calories: "", composition: "", shelf: "", description: "", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/a6e224f0-34c1-4307-8937-0335cc358917.png" },
   { id: 48, name: "Рогалик", category: "Сдобная выпечка", price: 0, weight: "150 г", calories: "", composition: "", shelf: "", description: "", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/d69fc834-4e8d-443d-be3b-6239b3fc3d34.png" },
   { id: 49, name: "Ромашка с маком, изюмом и кунжутом", category: "Сдобная выпечка", price: 0, weight: "350 г", calories: "", composition: "", shelf: "", description: "Мак, кунжут, изюм.", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/617a2a16-4f8a-40b7-b18c-4602613a3299.png" },
-  { id: 50, name: "Пирожки в ассортименте", category: "Сдобная выпечка", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Мясо, капуста, ветчина-сыр, лук-яйцо, яблоко, рис с курицей, курага, чернослив, сгущёнка, творог, картошка, печень.", badge: null, image: "🥟" },
+  { id: 50, name: "Пирожки в ассортименте", category: "Сдобная выпечка", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Мясо, капуста, ветчина-сыр, лук-яйцо, яблоко, рис с курицей, курага, чернослив, сгущёнка, творог, картошка, печень.", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/abdf2775-d073-466f-9c50-726f4628c2d2.png" },
   {
     id: 6,
     name: "Хлеб «Тостовый»",
