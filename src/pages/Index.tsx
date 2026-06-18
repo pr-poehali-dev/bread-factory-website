@@ -144,7 +144,7 @@ const PRODUCTS = [
     shelf: "5 суток",
     description: "Специальный хлеб для тостов — равномерный мякиш без крупных пор, идеальная форма.",
     badge: null,
-    image: "🍞",
+    image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/943125d8-815a-44cb-b832-d636f0001aeb.png",
   },
   { id: 10, name: "Рулет «Зебра»", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Бисквитный рулет с шоколадно-ванильным кремом.", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/733d34f6-0695-4af8-87d3-1d4f6e2bf26c.png" },
   { id: 11, name: "Рулет в ассортименте", category: "Кондитерские изделия", price: 0, weight: "", calories: "", composition: "", shelf: "", description: "Вишня, лимон, банан, груша, абрикос, черная смородина, абрикос со сливками, пломбир, киви.", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/7adaf5c9-a62f-4cae-9caf-115fa9ae5301.png" },
