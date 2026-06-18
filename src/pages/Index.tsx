@@ -126,7 +126,7 @@ const PRODUCTS = [
     badge: "Новинка",
     image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/3afd041d-0960-4971-ac77-dc997d51ae11.png",
   },
-  { id: 44, name: "Батон «Колос»", category: "Сдобная выпечка", price: 0, weight: "400 г", calories: "", composition: "", shelf: "", description: "", badge: null, image: "🥖" },
+  { id: 44, name: "Батон «Колос»", category: "Сдобная выпечка", price: 0, weight: "400 г", calories: "", composition: "", shelf: "", description: "", badge: null, image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/cb5ce2e8-2c9c-4432-a042-e31e0b4f1d5b.png" },
   { id: 45, name: "Булочка «Веснушка»", category: "Сдобная выпечка", price: 0, weight: "400 г", calories: "", composition: "", shelf: "", description: "", badge: null, image: "🧁" },
   { id: 46, name: "Саечка", category: "Сдобная выпечка", price: 0, weight: "350 г", calories: "", composition: "", shelf: "", description: "", badge: null, image: "🧁" },
   { id: 47, name: "Булочка «Посыпушка»", category: "Сдобная выпечка", price: 0, weight: "45 г / 90 г / 180 г", calories: "", composition: "", shelf: "", description: "", badge: null, image: "🧁" },
