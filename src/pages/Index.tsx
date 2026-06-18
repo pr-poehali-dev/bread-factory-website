@@ -124,7 +124,7 @@ const PRODUCTS = [
     shelf: "4 суток",
     description: "Хлеб из смеси пшеничной и ржаной муки. Насыщенный вкус, плотная структура, хрустящая корочка.",
     badge: "Новинка",
-    image: "🫓",
+    image: "https://cdn.poehali.dev/projects/e03773f3-9536-493d-bf7b-446f8661100b/bucket/3afd041d-0960-4971-ac77-dc997d51ae11.png",
   },
   { id: 44, name: "Батон «Колос»", category: "Сдобная выпечка", price: 0, weight: "400 г", calories: "", composition: "", shelf: "", description: "", badge: null, image: "🥖" },
   { id: 45, name: "Булочка «Веснушка»", category: "Сдобная выпечка", price: 0, weight: "400 г", calories: "", composition: "", shelf: "", description: "", badge: null, image: "🧁" },
