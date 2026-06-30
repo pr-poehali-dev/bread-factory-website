@@ -294,9 +294,9 @@ export default function Index() {
               className="animate-fade-in-up delay-100 font-display text-5xl md:text-7xl font-bold leading-[1.05] mb-6"
               style={{ color: "hsl(42 60% 95%)" }}
             >
-              Хлеб с душой
+              Сурский хлебозавод
               <span className="block italic font-light" style={{ color: "hsl(45 80% 70%)" }}>
-                и традициями
+                Хлеб с душой и традициями
               </span>
             </h1>
             <p
